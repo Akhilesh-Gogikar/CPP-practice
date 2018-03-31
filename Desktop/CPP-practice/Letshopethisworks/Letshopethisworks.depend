@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1522472697 source:c:\users\user\desktop\cpp-practice\letshopethisworks\main.cpp
+	<iostream>
+
+1522472741 source:c:\users\user\desktop\cpp-practice\letshopethisworks\avg_num.cpp
+	<iostream>
+
+1522473905 source:c:\users\user\desktop\cpp-practice\letshopethisworks\use_of_class.cpp
+	<iostream>
+
+1522482121 source:c:\users\user\desktop\cpp-practice\letshopethisworks\bad_alloc.cpp
+	<iostream>
+	<conio.h>
+
+1522483003 source:c:\users\user\desktop\cpp-practice\letshopethisworks\manipulators.cpp
+	<iostream>
+	<iomanip>
+
+1522506098 source:c:\users\user\desktop\cpp-practice\letshopethisworks\factorial.cpp
+	<iostream>
+	<conio.h>
+
+1522506754 source:c:\users\user\desktop\cpp-practice\letshopethisworks\tower_of_hanoi.cpp
+	<iostream>
+	<conio.h>
+
+1522509153 source:c:\users\user\desktop\cpp-practice\letshopethisworks\function_overloading.cpp
+	<iostream>
+
+1522510375 source:c:\users\user\desktop\cpp-practice\letshopethisworks\math_funcs.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<math.h>
+
+1522511006 source:c:\users\user\desktop\cpp-practice\letshopethisworks\class_implementation.cpp
+	<iostream>
+
+1522512470 source:c:\users\user\desktop\cpp-practice\letshopethisworks\nesing_member_fucns.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
+1522519878 source:c:\users\user\desktop\cpp-practice\letshopethisworks\shoppong_list.cpp
+	<iostream>
+
+1522520601 source:c:\users\user\desktop\cpp-practice\letshopethisworks\static_class_member.cpp
+	<iostream>
+
+1522521202 source:c:\users\user\desktop\cpp-practice\letshopethisworks\static_mem_func.cpp
+	<iostream>
+
